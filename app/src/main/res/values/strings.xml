@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Отчет по сменам</string>
+    <string name="Position">Должность</string>
+    <string name="RatePerHour">руб./час</string>
+    <string name="bid">Ставка</string>
+    <string name="Salary">З/п. в мес.</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="buttonSendReport">Отправить отчет</string>
+    <string name="FirstName">Фамилия</string>
+    <string name="LastName">Имя</string>
+    <string name="FirstName1">Отчество</string>
+    <string name="GenerateReportButton">Сформировать отчет</string>
+</resources>
