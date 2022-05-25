@@ -1,9 +1,5 @@
 package com.tcin.submitworkingtimereport;
 
-import android.content.Context;
-import android.content.Intent;
-import android.widget.Toast;
-
 public class Order {
 
     String firstName; //фамилия
